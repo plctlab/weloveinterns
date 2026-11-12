@@ -200,3 +200,10 @@ interns:
     work: >-
       PLCT ラボ J139 チームで MoonBit 開発のインターンに参加し、言語エコシステムの標準ライブラリと開発ツールを中心に複数のプロジェクトの実装と保守に携わりました。アルゴリズム、パース、暗号エンコード、リアクティブ、非同期プログラミングなどの領域を担当。
     link: https://github.com/CGaaaaaa
+  - name: 林子杰
+    alias: 0Ayachi0
+    handle: 0Ayachi0
+    avatar: https://avatars.githubusercontent.com/u/164362374?v=4
+    work: >-
+      MoonBit 言語エコシステムの構築に参加し、moonbit-community 配下の SwissTable、Multiset、GB18030、lossless_syntax_trees、elk、openai_sdk などのオープンソースプロジェクトにコードを貢献。ハッシュテーブルと集合、文字コード変換、無損失構文木、グラフレイアウトアルゴリズム、大規模言語モデル SDK などの領域を担当。
+    link: https://github.com/0Ayachi0
