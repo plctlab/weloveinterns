@@ -78,6 +78,7 @@ senior 不是荣誉称号，而是一份契约：技术能力达到 LV3 及以�
 | **MikuNotFoundException** | [@Officeyutong](https://github.com/Officeyutong) | 参与 [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) 社区多个项目的开发，包括 [bpftime](https://github.com/eunomia-bpf/bpftime)、eunomia-bpf、[wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) 等 |
 | **黄镇雨（Rain Huang）** | [@rainhuang0220](https://github.com/rainhuang0220) | 曾在 [PLCT 实验室](https://github.com/plctlab) J139 小队参与 [MoonBit](https://www.moonbitlang.com/) 开发实习；目前在积极改进 LLM 的长期记忆与上下文管理能力 |
 | **蔡嘉妮（CGaaaaaa）** | [@CGaaaaaa](https://github.com/CGaaaaaa) | 曾在 [PLCT 实验室](https://github.com/plctlab) J139 小队参与 [MoonBit](https://www.moonbitlang.com/) 开发实习，围绕语言生态基础库与开发工具参与多个项目的实现与维护，涵盖算法、解析、密码学编码、响应式与异步编程等方向（见 [JWT](https://github.com/CGaaaaaa/JWT)、[DER](https://github.com/CGaaaaaa/DER)、[reactivex](https://github.com/CGaaaaaa/reactivex)、[moonbit-url](https://github.com/CGaaaaaa/moonbit-url)） |
+| **林子杰（0Ayachi0）** | [@0Ayachi0](https://github.com/0Ayachi0) | 参与 [MoonBit](https://www.moonbitlang.com/) 语言生态建设，为 [moonbit-community](https://github.com/moonbit-community) 下的 [SwissTable](https://github.com/moonbit-community/SwissTable)、[Multiset](https://github.com/moonbit-community/Multiset)、[GB18030](https://github.com/moonbit-community/GB18030)、[lossless_syntax_trees](https://github.com/moonbit-community/lossless_syntax_trees)、[elk](https://github.com/moonbit-community/elk)、[openai_sdk](https://github.com/moonbit-community/openai_sdk) 等开源项目贡献代码，涵盖哈希表与集合、字符编解码、无损语法树、图布局算法及大模型 SDK 等方向 |
 
 ## 他们自己说的话
 

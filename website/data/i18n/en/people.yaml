@@ -204,3 +204,10 @@ interns:
     work: >-
       Interned on MoonBit development in PLCT Lab's J139 team, taking part in implementing and maintaining several projects around language-ecosystem standard libraries and developer tooling, covering algorithms, parsing, cryptographic encoding, reactive and asynchronous programming.
     link: https://github.com/CGaaaaaa
+  - name: Lin Zijie
+    alias: 0Ayachi0
+    handle: 0Ayachi0
+    avatar: https://avatars.githubusercontent.com/u/164362374?v=4
+    work: >-
+      Contributes to the MoonBit language ecosystem, writing code for open-source projects under moonbit-community — SwissTable, Multiset, GB18030, lossless_syntax_trees, elk and openai_sdk — covering hash tables and sets, character encoding, lossless syntax trees, graph layout algorithms and LLM SDKs.
+    link: https://github.com/0Ayachi0
